@@ -1,0 +1,30 @@
+# Node artifacts
+node_modules
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Build output
+dist
+
+# Version control
+.git
+.gitignore
+.gitattributes
+
+# Environment files (these will be set in Railway)
+.env
+.env.*
+
+# Editor directories and files
+.vscode
+.idea
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Project specific
+.cursor 
