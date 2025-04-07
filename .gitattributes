@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.bat text eol=crlf
+*.sh text eol=lf
+deploy-to-railway.sh text eol=lf
